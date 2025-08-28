@@ -2,20 +2,14 @@ import os
 import json
 
 FILE_NAME = "students.json"
-
-# Load existing data if available
 def load_data():
     if os.path.exists(FILE_NAME):
         with open(FILE_NAME, "r") as f:
             return json.load(f)
     return []
-
-# Save data to file
 def save_data(data):
     with open(FILE_NAME, "w") as f:
         json.dump(data, f, indent=4)
-
-# Add a new student
 def add_student(data):
     name = input("Enter student name: ")
     roll = input("Enter roll number: ")
@@ -39,8 +33,6 @@ def add_student(data):
     data.append(student)
     save_data(data)
     print("✅ Student added successfully!")
-
-# Calculate grade
 def calculate_grade(percentage):
     if percentage >= 90:
         return "A+"
@@ -52,8 +44,6 @@ def calculate_grade(percentage):
         return "C"
     else:
         return "F"
-
-# View all students
 def view_students(data):
     if not data:
         print("No student records found!")
@@ -61,8 +51,6 @@ def view_students(data):
     print("\n--- Student Records ---")
     for s in data:
         print(f"Name: {s['Name']} | Roll No: {s['Roll No']} | Total: {s['Total']} | %: {s['Percentage']} | Grade: {s['Grade']}")
-
-# Main menu
 def main():
     data = load_data()
     while True:
