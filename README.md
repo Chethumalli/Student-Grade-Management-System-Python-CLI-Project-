@@ -17,7 +17,7 @@ GitHub
 
 🧠 Ideal for beginner Python learners & portfolio project 📁 
 GitHub
-
+<pre>  
 🚀 Features
 Feature	Description
 ➕ Add Students	Add new students and their marks
@@ -32,7 +32,7 @@ Feature	Description
 ├── students.json
 ├── .vscode/
 └── ...
-
+</pre>
 🧠 Requirements
 
 🐍 Python 3.7+
@@ -93,3 +93,4 @@ Just fork this repo and create a pull request 😊
 
 This is a simple Python CLI project focused on grade management for students — a good learning tool for Python fundamentals & CLI design. 
 GitHub
+
