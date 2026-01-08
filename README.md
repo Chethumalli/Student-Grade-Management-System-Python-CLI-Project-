@@ -1,4 +1,4 @@
-🎓 Student Grade Management System (Python CLI)
+<b>🎓 Student Grade Management System (Python CLI)</b>
 
 CLI-based Student Grade Management System built in Python to help you manage student grades easily using a terminal interface. 
 GitHub
@@ -93,4 +93,5 @@ Just fork this repo and create a pull request 😊
 
 This is a simple Python CLI project focused on grade management for students — a good learning tool for Python fundamentals & CLI design. 
 GitHub
+
 
