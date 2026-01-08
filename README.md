@@ -94,12 +94,13 @@ Just fork this repo and create a pull request 😊
 This is a simple Python CLI project focused on grade management for students — a good learning tool for Python fundamentals & CLI design. 
 GitHub
 
-👨‍💻 Author
+<pre>👨‍💻 Author
 
 Chethan C Malli
 UI/UX Developer Intern
 📧 Email: (add if needed)
-🔗 GitHub: https://github.com/Chethumalli
+🔗 GitHub: https://github.com/Chethumalli</pre>
+
 
 
 
