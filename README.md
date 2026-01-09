@@ -25,6 +25,7 @@ Feature	Description
 📖 List Students	Display all stored students
 💾 Persistent Storage	Saves into students.json
 🛠️ Easy to Extend	Built in Python with modular code
+
 📦 Project Structure
 .
 ├── README.md
@@ -33,6 +34,7 @@ Feature	Description
 ├── .vscode/
 └── ...
 </pre>
+
 🧠 Requirements
 
 🐍 Python 3.7+
@@ -100,6 +102,7 @@ Chethan C Malli
 UI/UX Developer Intern
 📧 Email: (add if needed)
 🔗 GitHub: https://github.com/Chethumalli</pre>
+
 
 
 
