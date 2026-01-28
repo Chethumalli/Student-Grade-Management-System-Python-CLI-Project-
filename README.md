@@ -102,8 +102,9 @@ GitHub
 Chethan C Malli
 UI/UX Developer Intern
 web development intern
-📧 Email: (add if needed)
+📧 Email: chethumalli13@gmail.com
 🔗 GitHub: https://github.com/Chethumalli</pre>
+
 
 
 
