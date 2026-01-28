@@ -1,6 +1,7 @@
 <b>🎓 Student Grade Management System (Python CLI)</b>
 
 CLI-based Student Grade Management System built in Python to help you manage student grades easily using a terminal interface. 
+
 GitHub
 
 ✨ Features
@@ -100,8 +101,10 @@ GitHub
 
 Chethan C Malli
 UI/UX Developer Intern
+web development intern
 📧 Email: (add if needed)
 🔗 GitHub: https://github.com/Chethumalli</pre>
+
 
 
 
