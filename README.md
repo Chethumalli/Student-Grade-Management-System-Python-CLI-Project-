@@ -4,7 +4,7 @@ CLI-based Student Grade Management System built in Python to help you manage stu
 
 GitHub
 
-## ✨ Features
+### ✨ Features
 
 📌 Add student details (name, marks)
 
@@ -19,7 +19,7 @@ GitHub
 🧠 Ideal for beginner Python learners & portfolio project 📁 
 GitHub
   
-🚀 Features
+### 🚀 Features
 <pre>
 Feature	Description
 ➕ Add Students	Add new students and their marks
@@ -28,7 +28,8 @@ Feature	Description
 💾 Persistent Storage	Saves into students.json
 🛠️ Easy to Extend	Built in Python with modular code
 </pre>
-📦 Project Structure
+
+### 📦 Project Structure
 <pre>
 .
 ├── README.md
@@ -106,6 +107,7 @@ UI/UX Developer Intern
 web development intern
 📧 Email: chethumalli13@gmail.com
 🔗 GitHub: https://github.com/Chethumalli</pre>
+
 
 
 
