@@ -18,16 +18,18 @@ GitHub
 
 🧠 Ideal for beginner Python learners & portfolio project 📁 
 GitHub
-<pre>  
+  
 🚀 Features
+<pre>
 Feature	Description
 ➕ Add Students	Add new students and their marks
 🧮 Auto Grade	Computes total, % and letter grade
 📖 List Students	Display all stored students
 💾 Persistent Storage	Saves into students.json
 🛠️ Easy to Extend	Built in Python with modular code
-
+</pre>
 📦 Project Structure
+<pre>
 .
 ├── README.md
 ├── grade_manager.py
@@ -104,6 +106,7 @@ UI/UX Developer Intern
 web development intern
 📧 Email: chethumalli13@gmail.com
 🔗 GitHub: https://github.com/Chethumalli</pre>
+
 
 
 
